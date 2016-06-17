@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: dbe634593a8760449907d27e5ed8cc13
+timeCreated: 1466185571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Salamander_Attack_zonder_drool_0
+    21300002: Salamander_Attack_zonder_drool_1
+    21300004: Salamander_Attack_zonder_drool_2
+    21300006: Salamander_Attack_zonder_drool_3
+    21300008: Salamander_Attack_zonder_drool_4
+    21300010: Salamander_Attack_zonder_drool_5
+    21300012: Salamander_Attack_zonder_drool_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Salamander_Attack_zonder_drool_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 388
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122, y: -118.5}
+        - {x: 130, y: -56.5}
+        - {x: 182, y: 1.5}
+        - {x: 194, y: 21.5}
+        - {x: 194, y: 90.5}
+        - {x: 193, y: 104.5}
+        - {x: 176, y: 123.5}
+        - {x: 147, y: 122.5}
+        - {x: 83, y: 98.5}
+        - {x: 71, y: 42.5}
+        - {x: 77, y: -10.5}
+        - {x: 31, y: -0.5}
+        - {x: -2, y: 26.5}
+        - {x: -4, y: 86.5}
+        - {x: -21, y: 127.5}
+        - {x: -67, y: 156.5}
+        - {x: -148, y: 156.5}
+        - {x: -190, y: 127.5}
+        - {x: -194, y: 107.5}
+        - {x: -194, y: 49.5}
+        - {x: -184, y: 2.5}
+        - {x: -160, y: -14.5}
+        - {x: -113, y: 7.5}
+        - {x: -141, y: -49.5}
+        - {x: -101, y: -156.5}
+        - {x: -32, y: -156.5}
+        - {x: -13, y: -149.5}
+        - {x: 3, y: -156.5}
+        - {x: 109, y: -156.5}
+    - name: Salamander_Attack_zonder_drool_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1729
+        width: 383
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -159.5}
+        - {x: 94.5, y: -159.5}
+        - {x: 113.5, y: -152.5}
+        - {x: 120.5, y: -86.5}
+        - {x: 191.5, y: 7.5}
+        - {x: 191.5, y: 104.5}
+        - {x: 189.5, y: 118.5}
+        - {x: 129.5, y: 127.5}
+        - {x: 89.5, y: 106.5}
+        - {x: 72.5, y: 63.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 5.5, y: 58.5}
+        - {x: -7.5, y: 103.5}
+        - {x: -17.5, y: 134.5}
+        - {x: -56.5, y: 159.5}
+        - {x: -141.5, y: 159.5}
+        - {x: -174.5, y: 145.5}
+        - {x: -189.5, y: 113.5}
+        - {x: -191.5, y: 108.5}
+        - {x: -191.5, y: 23.5}
+        - {x: -187.5, y: -22.5}
+        - {x: -161.5, y: -73.5}
+        - {x: -110.5, y: -118.5}
+        - {x: -107.5, y: -158.5}
+        - {x: -104.5, y: -159.5}
+        - {x: -48.5, y: -159.5}
+        - {x: -16.5, y: -142.5}
+        - {x: 15.5, y: -90.5}
+        - {x: 7.5, y: -148.5}
+    - name: Salamander_Attack_zonder_drool_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 359
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.5, y: -165}
+        - {x: 112.5, y: -141}
+        - {x: 107.5, y: -108}
+        - {x: 131.5, y: -58}
+        - {x: 179.5, y: 1}
+        - {x: 179.5, y: 72}
+        - {x: 174.5, y: 118}
+        - {x: 109.5, y: 122}
+        - {x: 77.5, y: 103}
+        - {x: 56.5, y: 49}
+        - {x: 72.5, y: -13}
+        - {x: 20.5, y: -2}
+        - {x: 5.5, y: 24}
+        - {x: 21.5, y: 65}
+        - {x: 4.5, y: 142}
+        - {x: -25.5, y: 162}
+        - {x: -48.5, y: 165}
+        - {x: -137.5, y: 165}
+        - {x: -141.5, y: 164}
+        - {x: -179.5, y: 116}
+        - {x: -179.5, y: 16}
+        - {x: -177.5, y: 2}
+        - {x: -158.5, y: -3}
+        - {x: -136.5, y: -2}
+        - {x: -133.5, y: 1}
+        - {x: -147.5, y: -33}
+        - {x: -153.5, y: -71}
+        - {x: -123.5, y: -158}
+        - {x: -106.5, y: -165}
+        - {x: -50.5, y: -165}
+        - {x: -41.5, y: -160}
+        - {x: -27.5, y: -148}
+        - {x: -8.5, y: -165}
+    - name: Salamander_Attack_zonder_drool_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1379
+        width: 362
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 180, y: 112.5}
+        - {x: 133, y: 127.5}
+        - {x: 86, y: 106.5}
+        - {x: 60, y: 61.5}
+        - {x: -5, y: 163.5}
+        - {x: -11, y: 164.5}
+        - {x: -148, y: 164.5}
+        - {x: -175, y: 110.5}
+        - {x: -166, y: 71.5}
+        - {x: -155, y: 74.5}
+        - {x: -127, y: 61.5}
+        - {x: -122, y: 60.5}
+        - {x: -103, y: 58.5}
+        - {x: -99, y: 59.5}
+        - {x: -106, y: 54.5}
+        - {x: -112, y: 59.5}
+        - {x: -116, y: 59.5}
+        - {x: -147, y: 60.5}
+        - {x: -174, y: 50.5}
+        - {x: -181, y: 32.5}
+        - {x: -181, y: -4.5}
+        - {x: -176, y: -8.5}
+        - {x: -158, y: -9.5}
+        - {x: -176, y: -36.5}
+        - {x: -146, y: -115.5}
+        - {x: -108, y: -164.5}
+        - {x: 102, y: -164.5}
+        - {x: 113, y: -163.5}
+        - {x: 181, y: 1.5}
+        - {x: 181, y: 96.5}
+    - name: Salamander_Attack_zonder_drool_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 405
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: -152.5}
+        - {x: 101.5, y: -94.5}
+        - {x: 202.5, y: 35.5}
+        - {x: 202.5, y: 114.5}
+        - {x: 197.5, y: 117.5}
+        - {x: 166.5, y: 125.5}
+        - {x: 116.5, y: 120.5}
+        - {x: 78.5, y: 70.5}
+        - {x: 74.5, y: -3.5}
+        - {x: 12.5, y: 10.5}
+        - {x: -25.5, y: 32.5}
+        - {x: -26.5, y: 128.5}
+        - {x: -68.5, y: 166.5}
+        - {x: -167.5, y: 166.5}
+        - {x: -202.5, y: 124.5}
+        - {x: -202.5, y: 38.5}
+        - {x: -198.5, y: 24.5}
+        - {x: -186.5, y: -3.5}
+        - {x: -177.5, y: -21.5}
+        - {x: -164.5, y: -24.5}
+        - {x: -162.5, y: -21.5}
+        - {x: -153.5, y: -20.5}
+        - {x: -156.5, y: -71.5}
+        - {x: -145.5, y: -149.5}
+        - {x: -118.5, y: -166.5}
+        - {x: -55.5, y: -166.5}
+        - {x: -39.5, y: -152.5}
+        - {x: -1.5, y: -135.5}
+        - {x: 11.5, y: -161.5}
+    - name: Salamander_Attack_zonder_drool_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1030
+        width: 502
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 251, y: 2.5}
+        - {x: 251, y: 111.5}
+        - {x: 180, y: 98.5}
+        - {x: 125, y: 76.5}
+        - {x: 92, y: 0.5}
+        - {x: 21, y: 8.5}
+        - {x: -23, y: -4.5}
+        - {x: -67, y: 97.5}
+        - {x: -84, y: 134.5}
+        - {x: -116, y: 163.5}
+        - {x: -216, y: 163.5}
+        - {x: -222, y: 162.5}
+        - {x: -251, y: 117.5}
+        - {x: -251, y: 91.5}
+        - {x: -250, y: 90.5}
+        - {x: -251, y: 81.5}
+        - {x: -251, y: -14.5}
+        - {x: -247, y: -29.5}
+        - {x: -221, y: -26.5}
+        - {x: -218, y: -22.5}
+        - {x: -126, y: -8.5}
+        - {x: -122, y: -73.5}
+        - {x: -75, y: -158.5}
+        - {x: -62, y: -163.5}
+        - {x: -14, y: -163.5}
+        - {x: -9, y: -162.5}
+        - {x: 51, y: -100.5}
+        - {x: 38, y: -162.5}
+        - {x: 43, y: -163.5}
+        - {x: 115, y: -163.5}
+        - {x: 130, y: -159.5}
+        - {x: 138, y: -94.5}
+        - {x: 230, y: -18.5}
+    - name: Salamander_Attack_zonder_drool_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 523
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: -162}
+        - {x: 134.5, y: -162}
+        - {x: 149.5, y: -105}
+        - {x: 222.5, y: -19}
+        - {x: 250.5, y: 18}
+        - {x: 259.5, y: 52}
+        - {x: 261.5, y: 65}
+        - {x: 261.5, y: 95}
+        - {x: 245.5, y: 109}
+        - {x: 179.5, y: 103}
+        - {x: 130.5, y: 61}
+        - {x: 115.5, y: 4}
+        - {x: 56.5, y: 5}
+        - {x: -10.5, y: 2}
+        - {x: -81.5, y: 131}
+        - {x: -117.5, y: 162}
+        - {x: -231.5, y: 162}
+        - {x: -261.5, y: 118}
+        - {x: -261.5, y: 76}
+        - {x: -255.5, y: 49}
+        - {x: -261.5, y: -22}
+        - {x: -233.5, y: -32}
+        - {x: -145.5, y: 14}
+        - {x: -110.5, y: -69}
+        - {x: -99.5, y: -93}
+        - {x: -61.5, y: -160}
+        - {x: -54.5, y: -162}
+        - {x: -6.5, y: -162}
+        - {x: 1.5, y: -160}
+        - {x: 35.5, y: -94}
+        - {x: 43.5, y: -156}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
