@@ -6,12 +6,6 @@ public class PauseGame1 : MonoBehaviour {
     public Transform canvas;
     public Transform player;
 
-    // Use this for initialization
-    void Start() {
-
-    }
-
-    // Update is called once per frame
     void Update() {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
